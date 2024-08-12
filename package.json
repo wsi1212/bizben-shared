@@ -1,5 +1,5 @@
 {
-  "name": "bizben-models",
+  "name": "@bizben/models",
   "version": "1.0.0",
   "description": "BizbenV3's models on code artifact",
   "main": "index.js",
