@@ -6,7 +6,7 @@ export interface User {
     address?: string;
     city?: string;
     companyName?: string;
-    counties?: string[];
+    counties?: string;
     createdAt: string;
     email?: string;
     firstName?: string;
