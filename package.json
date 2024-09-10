@@ -1,7 +1,7 @@
 {
-  "name": "@bizben/models",
-  "version": "1.0.2",
-  "description": "BizbenV3's models on code artifact",
+  "name": "@bizben/shared",
+  "version": "1.0.1",
+  "description": "BizbenV3's code artifact",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

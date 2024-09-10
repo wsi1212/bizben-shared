@@ -21,7 +21,7 @@ export interface Business {
     investmentSoughtRange?: string;
     isLegacy?: boolean;
     isPublished?: boolean;
-    keywords?: string[];
+    keywords?: string;
     pageViews?: number;
     phoneNumber?: string;
     postID: string;
@@ -30,7 +30,7 @@ export interface Business {
     refreshedAt?: string;
     revenue?: number;
     shortProfile?: string;
-    states?: string[];
+    states?: string;
     status?: string;
     supportAndTraining?: string;
     title?: string;
